@@ -1,0 +1,115 @@
+{
+    "language":"English",
+    "logo":"Nawrni",
+    "menu":{
+        "about":"About",
+        "courses":"Courses",
+        "blogs":"Blogs",
+        "contacts":"Contact"
+    },
+    "header":{
+        "part1":"Your Lesson",
+        "part2":"Time you like",
+        "description":"Lorem Ipsum has been the industry standard dummy text ever since the 1500s.",
+        "infoButton":"Info"
+    },
+    "about":{
+        "heading1":"About Nawrni",
+        "heading2":"Best education plateform",
+        "description1":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "description2":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "infoButton":"Info"
+    },
+    "services":{
+        "heading1":"Our Services",
+        "heading2":"Online Learning Academy",
+        "description1":"Though the gravity still dragged at him, his muscles were making great efforts to adjust. After the daily classes he no longer collapsed.",
+        "description2":"Minuteness of the parts formed a great hindrance to my speed, I resolved, contrary to my first intention."
+    },
+    "onlineEducation":{
+        "heading":"Start Online Education",
+        "description":"What looked like a small patch of purple grass, above five feet square, was moving across the sand in their direction. When it came near enough he perceived that it was not grass there were no blades.",
+        "buttonGetStarted":"Get Started",
+        "buttonContact":"Contact"
+    },
+    "courses":{
+        "heading":"Our big library",
+        "title":"Popular Courses",
+        "description":"Though the gravity still dragged at him, his muscles were making great efforts to adjust. After the daily classes he no longer collapsed."
+    },
+    "testimonials":{
+        "heading":"Testimonials",
+        "title":"Our Students Say About Us",
+        "description1":"Apparently we had reached a great height in the atmosphere, for the sky was a dead black.",
+        "description2":"By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle.",
+        "card":{
+            "des":"Minuteness of the parts formed a great hindrance to my speed, I resolved, contrary to my first intention, to make the being of a gigantic stature that is to say, about eight feet in height.",
+            "name":"Chinmay Sarasvati",
+            "company":"Microsoft"
+        }
+    
+    },
+    "features":{
+        "heading":"Features",
+        "title":"Professionals and Experts",
+        "des1":"Apparently we had reached a great height in the atmosphere, for the sky was a dead black.",
+        "des2":"By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle.",
+        "cards":{
+            "power":{
+                "title":"Powerful Tools",
+                "des":"Peep at some distant orb has power to raise and purify our thoughts like a strain of sacred music."
+            },
+            "actual":{
+                "title":"Actual Skills",
+                "des":"Some distant orb has power to raise and purify our thoughts like a strain of sacred music."
+            },
+            "growth":{
+                "title":"Growth Yourself",
+                "des":"Distant orb has power to raise and purify our thoughts like a strain of sacred music."
+            }
+        }
+    },
+    "pricing":{
+        "heading":"Pricing",
+        "title":"Our Flexible Pricing Plans",
+        "cards":{
+            "title":"Premium",
+            "subTitle":"Yearly Plan",
+            "point1" :"Flexible schedule",
+            "point2" :"Mobile learning",
+            "point3" :"Practice quizzes",
+            "button":"Get Started"
+        }
+    },
+    "contactUs":{
+        "contactUs":"Contact Us",
+        "firstName":"First Name",
+        "lastName":"Last Name",
+        "subject":"Subject",
+        "message":"Message",
+        "submit":"Submit"
+    },
+    "blogs":{
+        "heading":"OUR BLOG",
+        "title":"Latest News",
+        "des":"Apparently we had reached a great height in the atmosphere, for the sky was a dead black.",
+        "button":"Our Blog"
+    },
+    "footer":{
+        "section1":{
+            "heading":"Learning Now!",
+            "des":"By the same illusion which lifts the horizon of the sea to the level of the spectator.",
+            "buttonGetStarted":"Get Started",
+            "buttonContact":"Contact"
+        },
+        "section2":{
+            "des":"Apparently we had reached a great height in the atmosphere.",  
+            "button":"Submit"
+        },
+        "section3":{
+            "policy":"Privacy Policy Terms & Conditions",
+            "policyLink":"Laaqiq"
+        }
+        
+    }
+}
